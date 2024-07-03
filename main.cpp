@@ -5,7 +5,7 @@ using namespace std;
 
 int main()
 {
-    string haslo;
+string haslo;
 
     cout<<"Zgadnij sekretny numer"<<endl;
 
