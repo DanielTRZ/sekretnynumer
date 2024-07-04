@@ -24,6 +24,5 @@ cout<< "Dobra robota! To numer, ktory wybralem dla ciebie! Jestes teraz wolny."<
 exit(0);
 }
 }
-
-    return 0;
+return 0;
 }
