@@ -14,7 +14,7 @@ while(cin>>haslo)
 
 if(haslo != "3")
 {
-            cout<< "Nie, to nie jest ta liczba, ktora wybralem dla ciebie. Sprobuj ponownie!. " <<endl;
+cout<< "Nie, to nie jest ta liczba, ktora wybralem dla ciebie. Sprobuj ponownie!. " <<endl;
 
             cout<< "Podaj haslo: ";
         }
