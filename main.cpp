@@ -20,7 +20,7 @@ cout<< "Podaj haslo: ";
 
 else
 {
-            cout<< "Dobra robota! To numer, ktory wybralem dla ciebie! Jestes teraz wolny."<<endl;
+cout<< "Dobra robota! To numer, ktory wybralem dla ciebie! Jestes teraz wolny."<<endl;
             exit(0);
         }
     }
