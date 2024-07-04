@@ -18,7 +18,7 @@ cout<< "Nie, to nie jest ta liczba, ktora wybralem dla ciebie. Sprobuj ponownie!
 cout<< "Podaj haslo: ";
 }
 
-        else
+else
         {
             cout<< "Dobra robota! To numer, ktory wybralem dla ciebie! Jestes teraz wolny."<<endl;
             exit(0);
