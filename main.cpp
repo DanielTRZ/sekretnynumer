@@ -7,8 +7,7 @@ int main()
 {
 string haslo;
 cout<<"Zgadnij sekretny numer"<<endl;
-
-    cout<< "Podaj liczbe calkowita: ";
+cout<< "Podaj liczbe calkowita: ";
 
 
     while(cin>>haslo)
