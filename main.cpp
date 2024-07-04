@@ -9,8 +9,7 @@ string haslo;
 cout<<"Zgadnij sekretny numer"<<endl;
 cout<< "Podaj liczbe calkowita: ";
 
-
-    while(cin>>haslo)
+while(cin>>haslo)
     {
 
         if(haslo != "3")
