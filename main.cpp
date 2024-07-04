@@ -6,8 +6,7 @@ using namespace std;
 int main()
 {
 string haslo;
-
-    cout<<"Zgadnij sekretny numer"<<endl;
+cout<<"Zgadnij sekretny numer"<<endl;
 
     cout<< "Podaj liczbe calkowita: ";
 
