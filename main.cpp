@@ -10,7 +10,7 @@ cout<<"Zgadnij sekretny numer"<<endl;
 cout<< "Podaj liczbe calkowita: ";
 
 while(cin>>haslo)
-    {
+{
 
         if(haslo != "3")
         {
